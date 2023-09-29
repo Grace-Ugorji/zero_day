@@ -1,1 +1,1 @@
-0-hello_ubuntu
+This is the vagrant directory
